@@ -1,0 +1,21 @@
+﻿<Window x:Class="FileScanTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Scan Task" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="10" Grid.Row="0">
+            <Button Name="AddFileButton" Content="Add Files" Width="100" Margin="5" Click="AddFile_Click" />
+            <Button Name="StartScanButton" Content="Start Scan" Width="100" Margin="5" Click="StartScan_Click" />
+        </StackPanel>
+
+        <ListBox Name="FileList" Grid.Row="1" Margin="10" />
+
+        <ProgressBar Name="ProgressBar" Grid.Row="2" Height="20" Margin="10" Visibility="Hidden" />
+    </Grid>
+</Window>

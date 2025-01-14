@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|c:\\users\\zehra\\desktop\\son\\filescantask\\filescantask\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|solutionrelative:filescantask\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|c:\\users\\zehra\\desktop\\son\\filescantask\\filescantask\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|solutionrelative:filescantask\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|c:\\users\\zehra\\desktop\\son\\filescantask\\filescantask\\models\\filescan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|solutionrelative:filescantask\\models\\filescan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|c:\\users\\zehra\\desktop\\son\\filescantask\\filescantask\\services\\virustotalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|solutionrelative:filescantask\\services\\virustotalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|c:\\users\\zehra\\desktop\\son\\filescantask\\filescantask\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC05778-02D8-4C08-B9E9-0035796AE2FF}|FileScanTask\\FileScanTask.csproj|solutionrelative:filescantask\\services\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileScan.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\Models\\FileScan.cs",
+              "RelativeDocumentMoniker": "FileScanTask\\Models\\FileScan.cs",
+              "ToolTip": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\Models\\FileScan.cs",
+              "RelativeToolTip": "FileScanTask\\Models\\FileScan.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:11:20.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FileScanTask\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\MainWindow.xaml",
+              "RelativeToolTip": "FileScanTask\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T22:55:03.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FileScanTask\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FileScanTask\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAADwv9EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:54:58.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VirusTotalService.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\Services\\VirusTotalService.cs",
+              "RelativeDocumentMoniker": "FileScanTask\\Services\\VirusTotalService.cs",
+              "ToolTip": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\Services\\VirusTotalService.cs",
+              "RelativeToolTip": "FileScanTask\\Services\\VirusTotalService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAWwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:12:07.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\Services\\TaskManager.cs",
+              "RelativeDocumentMoniker": "FileScanTask\\Services\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\zehra\\Desktop\\son\\FileScanTask\\FileScanTask\\Services\\TaskManager.cs",
+              "RelativeToolTip": "FileScanTask\\Services\\TaskManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:12:33.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
