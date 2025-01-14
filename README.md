@@ -119,11 +119,6 @@ We welcome contributions to enhance this project. To contribute:
 
 ---
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## Future Enhancements
 - Add support for parallel file processing.
 - Implement a dashboard for detailed report analysis.
@@ -132,14 +127,5 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 ---
 
-## Credits
-- **Developer:** Your Name
-- **Mentor:** Academic Guide / Advisor
-- **References:**
-  - VirusTotal API Documentation
-  - Microsoft .NET Documentation
 
----
-
-For any inquiries or issues, please create an issue in the repository or contact me directly at `your-email@example.com`.
 
