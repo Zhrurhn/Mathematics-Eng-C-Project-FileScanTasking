@@ -1,4 +1,4 @@
-# Sequential Task Management Project
+# Sequential Task Management Project - File Scan Tasking
 
 ## Overview
 The **Sequential Task Management Project** is a Windows desktop application that helps users efficiently manage file scanning tasks. By integrating with the VirusTotal API, it allows for easy queuing, scanning, and reporting of file statuses. Designed for both academic and practical use, this project highlights structured task execution and simple but powerful features.
